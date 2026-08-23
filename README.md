@@ -59,7 +59,7 @@ The result can then be automatically sent to the user's email.
 
 ## Workflow Screenshot
 
-![n8n Workflow](screenshot/Screenshot/Screenshot 2026-08-24 011916.png)
+![n8n Workflow](Screenshot/Screenshot 2026-08-24 011916.png)
 
 ## How It Works
 
